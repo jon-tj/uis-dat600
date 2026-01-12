@@ -1,4 +1,5 @@
 uis-dat600.sln
 **/bin/**/*
 **/obj/**/*
+**/__pycache__/**/*
 *.csv

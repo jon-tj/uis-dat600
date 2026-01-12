@@ -1,0 +1,4 @@
+uis-dat600.sln
+**/bin/**/*
+**/obj/**/*
+*.csv
